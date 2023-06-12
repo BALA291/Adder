@@ -66,9 +66,11 @@ endmodule
 ```
 ## RTL Schematic:
 1.Half adder:
+
 ![ex3 logic](https://github.com/BALA291/Adder/assets/120717501/52e2aaa2-e2ef-4c52-ae74-0c25ddc5778d)
 
 2.Full adder:
+
 ![digital 3rdl](https://github.com/BALA291/Adder/assets/120717501/632018dc-26c1-4f8f-867e-8245fdabe166)
 
 
