@@ -65,12 +65,18 @@ or(carry,p,q,r);
 endmodule
 ```
 ## RTL Schematic:
+1.Half adder:
+![ex3 logic](https://github.com/BALA291/Adder/assets/120717501/52e2aaa2-e2ef-4c52-ae74-0c25ddc5778d)
 
+2.Full adder:
 ![digital 3rdl](https://github.com/BALA291/Adder/assets/120717501/632018dc-26c1-4f8f-867e-8245fdabe166)
 
 
 ## Timing Diagram:
+1.Half adder:
+![waveform ex3a](https://github.com/BALA291/Adder/assets/120717501/fef0389a-774b-4d71-a83c-373154b7b074)
 
+2.Full adder:
 ![wave 3](https://github.com/BALA291/Adder/assets/120717501/e9ef63a3-90f1-45cc-9c7f-5e514452a8b0)
 
 
